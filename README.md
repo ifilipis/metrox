@@ -35,6 +35,8 @@ The tool can extract single frames as well as a complete point cloud. Note the s
 
 Usage: upload property.rvproj from the project folder, Pl.bin from {project folder}/params and frames.dataset from {project folder}/cache
 
+If available, global_register_pose.pose can be uploaded - this file contains updated camera poses for better frame alignment. It appears after you click Optimize in Fusion in Revoscan
+
 The tool can extract individual frames (including color data, but it hasn't been validated), individual frame point clouds in world coordinates and a complete point cloud.
 
 Note the subsampling slider
