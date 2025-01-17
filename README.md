@@ -1,11 +1,11 @@
 # Revopoint MetroX tools
-Last updated for Revoscan 5.6.1
+Last updated for Revoscan 5.6.2
 Scripts and reverse engineering for Revopoint MetroX
 
 # Patched Revoscan .exe that unlocks fusion distance limit
 ![image](https://github.com/user-attachments/assets/8dc76e15-0fca-46d0-be84-cc8182fe99a2)
 
-[Link](https://github.com/ifilipis/metrox/raw/refs/heads/main/RevoScan5MetroX_patched.exe)
+[Link](https://github.com/ifilipis/metrox/raw/refs/heads/main/RevoScan5MetroX_patched_5.6.2.exe)
 
 Usage: place and run it from Revoscan folder in Program Files. Optionally, original exe can be replaced with the patched one to always use this version
 
